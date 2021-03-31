@@ -1,3 +1,4 @@
 <?php
     define('APP_ROOT', dirname(dirname(__FILE__)));
-    define('APP_URL', 'http://localhost/phpmvc');
+    define('URL_ROOT', 'http://localhost/phpmvc');
+    define('SITE_NAME', 'Share Posts');
